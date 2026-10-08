@@ -42,8 +42,9 @@ The notebook includes:
 3. Run the notebook cells in order.
 
 ## 💡 Key Findings
-
-Add your findings here after running the analysis and reviewing the charts.
+- The dataset contains three Iris species.
+- Petal measurements help distinguish between species.
+- Scatter plots reveal differences in petal length and width.
 
 ## 👨‍💻 Author
 
